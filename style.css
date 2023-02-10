@@ -1,0 +1,27 @@
+.padrão{
+    display: block;
+    text-align: center;
+    margin: 20px;
+    font-family: "Lucida Handwriting";
+}
+img{
+    margin: 0 60vh;
+}
+#H32{
+    color: red;
+}
+h3{
+    color: green;
+    text-decoration: underline;
+}
+
+html{
+    background-color: aqua;
+}
+.lichess{
+    width: 15%;
+    height:auto;
+    margin: 0 60hv;
+    margin-left: 45%;
+    padding: 10hv;
+}
